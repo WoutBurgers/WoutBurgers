@@ -1,6 +1,6 @@
 # Hey there 👋
 
-### My name is Wout Burgers and I'm a Computer Science & Engineering Student @ TU Delft
+### My name is Wout Burgers and I'm a MSc Computer Science Student @ TU Delft
 
 - 🌱 I’m currently learning about Computer Science
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/woutburgers/)
